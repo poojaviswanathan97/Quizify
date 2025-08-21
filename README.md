@@ -13,29 +13,6 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Tools: VS Code, Git, MongoDB Compass, Babel
 
-Getting Started
-Prerequisites
-Node.js
-MongoDB
-Git
-Run locally
-Clone the repo
-git clone https://github.com/your-username/quizify.git
-cd quizify
-Install dependencies
-npm install
-Set up MongoDB
-Start your MongoDB server.
-Create a .env file in the root folder:
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-Start the app
-Run backend:
-node server.js
-Run frontend:
-npm start
-Open in browser: http://localhost:3000
-
 Project Structure
 quizify/
 ├── src/
